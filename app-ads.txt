@@ -16,6 +16,10 @@ sovrn.com, 357833, DIRECT, fafdf38b16bf6b2b
 lijit.com, 357833, DIRECT, fafdf38b16bf6b2b
 lijit.com, 357833-eb, DIRECT, fafdf38b16bf6b2b
 
+GAZ
+google.com, pub-2960293519697422, DIRECT, f08c47fec0942fa0
+gameadzone.com, 621, DIRECT
+
 applovin.com, 47748167c8cd3cf163dea0cdd2ccb176, DIRECT
 adyoulike.com, 2d578cf695c89ec2ba707280319d2020, RESELLER
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
